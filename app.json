@@ -4,8 +4,8 @@
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "asena", "ai-bot", "AsenaDev", "wabot", "wabot asena", "wp bot"],
     "repository": "https://github.com/flash007k/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "website":   "https://t.me/the_cult",
+    "success_url": "https://t.me/the_cult",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
